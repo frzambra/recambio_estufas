@@ -1,0 +1,27 @@
+{
+    "id": "6641AB92",
+    "path": "~/Documentos/R-Projects/recambio_estufas/scripts/01_resumen_heatmap.R",
+    "project_path": "scripts/01_resumen_heatmap.R",
+    "type": "r_source",
+    "hash": "4175913514",
+    "contents": "",
+    "dirty": false,
+    "created": 1744828999905.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,36",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744829018,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744829018646,
+    "read_only": false,
+    "read_only_alternatives": []
+}
