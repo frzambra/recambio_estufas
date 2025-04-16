@@ -1,9 +1,11 @@
 
 library(tidyverse)
 
+#### 1. Leer datos
 data <- read_csv('~/Descargas/datos_estufas.csv') |> 
   set_names(c('comuna','fecha'))
 
+#### 2. Crear heatmap de resumen
 data |> 
   mutate(fecha = dmy(fecha)) |> 
   group_by(comuna,year = floor_date(fecha,'1 year')) |> 
